@@ -10,7 +10,30 @@ With over 5 years of hands-on experience in coding and software development, I'm
 
 🛠️ Technical Skills and Expertise
 
-Programming Languages: Proficient in Python, JavaScript, and C++, with a solid understanding of backend and frontend development. Frameworks & Libraries: Hands-on experience with popular frameworks like Django, React, and Node.js, allowing me to create full-stack applications with ease. DevOps Knowledge: Skilled in using tools such as Docker, Kubernetes, Jenkins, and Ansible for CI/CD, infrastructure automation, and cloud deployments, making development faster and more reliable. Cloud Platforms: Experience with AWS and Azure, including EC2, S3, Lambda, and cloud-based databases, to ensure high availability and scalability for modern applications. Version Control: Proficient with Git, following best practices for collaboration and deployment workflows. 🚀 Projects I've worked on a variety of projects, ranging from web applications and microservices architectures to automation tools and APIs. My projects reflect a keen interest in: Building Scalable Applications: Creating applications that handle growth seamlessly, with a focus on performance and reliability. Automated Workflows: Utilizing DevOps principles to streamline development processes and increase deployment efficiency. Community Contributions: Open-source contributions and collaborating on GitHub to help others and learn from the community. 🌱 Learning & Growth I'm committed to staying up-to-date with the latest industry trends and technologies. Currently, I'm exploring: Advanced Cloud Solutions: Diving deeper into serverless architecture and cloud-native development. Enhanced CI/CD Practices: Experimenting with more sophisticated CI/CD pipelines to maximize automation. 💼 Seeking New Opportunities I'm actively looking for a role where I can contribute my technical skills, learn from experienced teams, and continue to grow as a developer. I’m particularly interested in positions that involve both development and DevOps practices, where I can leverage my full-stack expertise and DevOps knowledge to make a meaningful impact.
+Programming Languages: Proficient in Python, JavaScript, and C++, with a solid understanding of backend and frontend development.
+
+Frameworks & Libraries: Hands-on experience with popular frameworks like Django, React, and Node.js, allowing me to create full-stack applications with ease.
+ 
+DevOps Knowledge: Skilled in using tools such as Docker, Kubernetes, Jenkins, and Ansible for CI/CD, infrastructure automation, and cloud deployments, making development faster and more reliable. 
+
+Cloud Platforms: Experience with AWS and Azure, including EC2, S3, Lambda, and cloud-based databases, to ensure high availability and scalability for modern applications. 
+
+Version Control: Proficient with Git, following best practices for collaboration and deployment workflows. 
+
+🚀 Projects I've worked on a variety of projects, ranging from web applications and microservices architectures to automation tools and APIs. 
+My projects reflect a keen interest in: Building Scalable Applications: Creating applications that handle growth seamlessly, with a focus on performance and reliability. Automated Workflows: Utilizing DevOps principles to streamline development processes and increase deployment efficiency. Community Contributions: Open-source contributions and collaborating on GitHub to help others and learn from the community. 
+
+
+🌱 Learning & Growth 
+
+I'm committed to staying up-to-date with the latest industry trends and technologies. Currently, I'm exploring: 
+Advanced Cloud Solutions: Diving deeper into serverless architecture and cloud-native development.
+
+Enhanced CI/CD Practices: Experimenting with more sophisticated CI/CD pipelines to maximize automation. 
+
+💼 Seeking New Opportunities
+
+ I'm actively looking for a role where I can contribute my technical skills, learn from experienced teams, and continue to grow as a developer. I’m particularly interested in positions that involve both development and DevOps practices, where I can leverage my full-stack expertise and DevOps knowledge to make a meaningful impact.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://annamalai2912.github.io/gitprofile/)
