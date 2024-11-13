@@ -47,6 +47,8 @@ src="https://img.shields.io/twitter/follow/@Urahaki137538?logo=twitter&style=for
 /></a><a href="https://www.twitch.tv/uzus_annu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/uzus_annu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+<a href="https://app.daily.dev/uzuss"><img src="https://api.daily.dev/devcards/v2/GjhMrChk0MFEwvB2AwW1C.png?type=default&r=rtb" width="356" alt="Annamalai's Dev Card"/></a>
+
 ### Skills
 
 
