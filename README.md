@@ -6,7 +6,7 @@
 With 1 year of focused experience in AI/ML development and software engineering, I specialize in building intelligent systems that leverage cutting-edge deep learning, NLP, robotics, and IoT technologies. My passion lies in creating innovative solutions that bridge the gap between theoretical AI research and practical real-world applications.
 
 * 🌍  Based in India
-* 🖥️  See my portfolio at [My Portfolio](https://annamalai2912.github.io/gitprofile/)
+* 🖥️  See my portfolio at [My Portfolio](https://annamalai-dev.vercel.app/)
 * ✉️  Contact me at [annamalaikm@hotmail.com](mailto:annamalaikm@hotmail.com)
 * 🧠  Currently exploring LLMs, AI agents, MLOps, robotics, and IoT integrations
 * 🤝  Open to collaborating on AI/ML projects, chatbots, and intelligent systems
