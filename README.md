@@ -194,9 +194,9 @@ current_learning = [
 ## 🏅 Earned Badges & Verifications
 
 <p align="left">
-  <img src="./27498643306041.png" alt="SkillFront Badge" width="120"/>
+  <img src="./27498643306041.png" alt="SkillFront Badge" width="200"/>
   <img src="./d49944ed-acff-41d5-a432-6cc31ef2fe4d-Advanced-Certification-Badge-2025.png" alt="JumpCloud Advanced Badge" width="120"/>
-  <img src="./badges/ai-ml.png" alt="AI/ML Badge" width="120"/>
+  
 </p>
 
 
