@@ -267,13 +267,6 @@ current_learning = [
   <img src="./ibm-ai-foundations-for-educators (1).png" alt="JumpCloud Advanced Badge" width="120"/>
 </p>
 
-## 🎖️ GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=annamalai2912&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-> Note: GitHub's native **Achievements** (Pull Shark, Quickdraw, YOLO, Galaxy Brain, Pair Extraordinaire, Arctic Code Vault Contributor) appear automatically on your profile page at `github.com/annamalai2912` once unlocked — they can't be embedded directly in a README, but the trophy graphic above is a popular community substitute that reflects similar activity (commits, PRs, issues, stars, repos).
 
 ## 🔄 DevOps & Deployment Workflow
 
@@ -321,8 +314,9 @@ I'm always open to interesting projects and collaborations in the AI, ML, roboti
 
 <a href="https://dev.to/@uzusss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@uzuus" height="30" width="40" /></a>
 
-<a href="http://www.github.com/annamalai2912"><img src="https://github-readme-streak-stats.herokuapp.com/?user=annamalai2912&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<a href="https://github.com/annamalai2912">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annamalai2912&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</a>
 <a href="http://www.github.com/annamalai2912"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=annamalai2912&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/annamalai2912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamalai2912&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
