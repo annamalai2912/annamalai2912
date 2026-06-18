@@ -3,6 +3,10 @@
 
 ## Deep Learning Engineer | NLP Specialist | AI Solutions Architect
 
+<p align="left">
+  <img src="https://www.techknots.in/brand/c7b2b957-6a5d-4e2f-838a-da932b7cc591.png" alt="TechKnots" height="70" />
+</p>
+
 With 1 year of focused experience in AI/ML development and software engineering, I specialize in building intelligent systems that leverage cutting-edge deep learning, NLP, robotics, and IoT technologies. My passion lies in creating innovative solutions that bridge the gap between theoretical AI research and practical real-world applications.
 
 * 🌍  Based in India
