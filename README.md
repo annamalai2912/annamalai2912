@@ -11,6 +11,7 @@ With 1 year of focused experience in AI/ML development and software engineering,
 * 🧠  Currently exploring LLMs, AI agents, MLOps, robotics, and IoT integrations
 * 🤝  Open to collaborating on AI/ML projects, chatbots, and intelligent systems
 * ⚡  Passionate about combining AI with robotics to create meaningful real-world impact
+* 🃏  Jack of all trades across languages, infra, and tooling — see the full stack below
 
 <a href="https://www.x.com/@Urahaki137538" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@Urahaki137538?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -21,42 +22,60 @@ src="https://img.shields.io/twitch/status/uzus_annu?logo=twitchsx&style=for-the-
 
 ## 🧠 Core Expertise & Technical Skills
 
+### Languages
+```python
+languages = {
+    "primary": ["Python", "JavaScript", "C++", "Java", "PHP"],
+    "systems": ["Rust", "Go", "Fortran"],
+    "scripting": ["Bash", "Shell/Terminal", "PowerShell", "Perl"],
+    "data_stats": ["R", "Scala"],
+    "apple_ecosystem": ["Swift"],
+    "note": "Jack of all trades — comfortable picking up new languages fast"
+}
+```
+
 ### AI & Machine Learning
 ```python
 ai_ml_skills = {
     "deep_learning": ["PyTorch", "TensorFlow", "Keras", "Neural Networks"],
     "nlp": ["Transformers", "BERT", "GPT", "LLMs", "Hugging Face", "spaCy", "NLTK"],
     "computer_vision": ["OpenCV", "Image Recognition", "Object Detection"],
+    "data_science": ["NumPy", "Pandas", "Scikit-learn", "SciPy", "Plotly"],
     "mlops": ["MLflow", "Weights & Biases", "Model Deployment"]
 }
 ```
 
-### Software Development
+### Software Development & Frameworks
 ```python
 dev_skills = {
-    "languages": ["Python", "JavaScript", "C++", "R", "Java", "PHP"],
-    "frameworks": ["Django", "Flask", "FastAPI", "React", "Node.js"],
-    "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Vector Databases"],
+    "languages": ["Python", "JavaScript", "C++", "R", "Java", "PHP", "Rust", "Go"],
+    "backend_frameworks": ["Django", "Flask", "FastAPI", "Express.js", "Node.js", "Livewire"],
+    "frontend_frameworks": ["React", "Next.js", "MUI", "Flutter"],
+    "dev_tools": ["Nodemon", "Node-RED"],
+    "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis", "CockroachDB", "Cassandra", "Prisma", "Firebase", "Vector Databases"],
     "version_control": ["Git", "GitHub", "GitLab"]
 }
 ```
 
-### DevOps & Cloud
+### Servers, DevOps & Cloud
 ```python
 devops_skills = {
-    "cloud": ["AWS", "GCP", "Azure"],
+    "cloud_hosting": ["AWS", "GCP", "Azure", "Render", "Railway", "Vercel", "Cloudflare", "Oracle Cloud", "OpenStack"],
+    "servers": ["Apache", "Nginx", "Gunicorn"],
     "containerization": ["Docker", "Kubernetes"],
-    "ci_cd": ["Jenkins", "GitHub Actions", "CircleCI"],
-    "infrastructure": ["Terraform", "Ansible", "Linux"]
+    "ci_cd": ["Jenkins", "GitHub Actions", "CircleCI", "GitLab CI", "Selenium", "Vitest"],
+    "infrastructure": ["Terraform", "Ansible", "Linux", "CMake"],
+    "project_tools": ["Jira", "Postman", "Tor"]
 }
 ```
 
 ### IoT & Robotics
 ```python
 iot_robotics = {
-    "hardware": ["Raspberry Pi", "Arduino", "Sensors", "Actuators"],
+    "hardware": ["Raspberry Pi", "Arduino", "NVIDIA Jetson", "Sensors", "Actuators"],
     "frameworks": ["ROS", "Edge AI Deployment"],
-    "integration": ["MQTT", "IoT Protocols", "Sensor Data Processing"]
+    "integration": ["MQTT", "IoT Protocols", "Sensor Data Processing"],
+    "gaming_distribution": ["Steam", "itch.io"]
 }
 ```
 
@@ -119,6 +138,14 @@ def fullstack_ai_project():
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="36" height="36" alt="Fortran" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a>
+<a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="36" height="36" alt="Perl" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch" /></a>
@@ -127,16 +154,43 @@ def fullstack_ai_project():
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="Hugging Face" /></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="36" height="36" alt="OpenCV" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express.js" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="36" height="36" alt="Livewire" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cockroachdb/cockroachdb-original.svg" width="36" height="36" alt="CockroachDB" /></a>
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="36" height="36" alt="Cassandra" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="36" height="36" alt="Apache" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="36" height="36" alt="Selenium" /></a>
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" width="36" height="36" alt="Vitest" /></a>
+<a href="https://www.gnu.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle Cloud" /></a>
+<a href="https://www.openstack.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" width="36" height="36" alt="OpenStack" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" /></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/63090071?s=200&v=4" width="36" height="36" alt="Render" /></a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/62492283?s=200&v=4" width="36" height="36" alt="Railway" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="36" height="36" alt="CMake" /></a>
+<a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="36" height="36" alt="NVIDIA" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
 </p>
 
 ## 📊 AI & ML Toolkit
@@ -149,6 +203,8 @@ import torch
 import tensorflow as tf
 from transformers import pipeline
 from sklearn.ensemble import RandomForestClassifier
+import scipy
+import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -169,6 +225,21 @@ research_interests = [
     "Low-Resource NLP",
     "Human-AI Collaboration"
 ]
+```
+
+## 🌐 Hosting, Infra & Tooling Playground
+
+```python
+# Where I deploy and ship things
+hosting_platforms = ["Render", "Railway", "GCP", "AWS", "Vercel", "OpenStack", "Cloudflare", "Oracle Cloud"]
+
+servers_runtimes = ["Apache", "Nginx", "Gunicorn", "Jenkins"]
+
+ci_cd_quality = ["Git", "GitLab", "GitHub Actions", "Selenium", "Vitest"]
+
+misc_tools = ["Kubernetes", "Docker", "Jira", "Postman", "CMake", "Tor", "NVIDIA CUDA"]
+
+side_quest_platforms = ["itch.io", "Steam", "Arduino"]
 ```
 
 ## 🏆 Certifications & Continuous Learning
@@ -199,6 +270,13 @@ current_learning = [
   <img src="./ibm-ai-foundations-for-educators (1).png" alt="JumpCloud Advanced Badge" width="120"/>
 </p>
 
+## 🎖️ GitHub Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=annamalai2912&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+> Note: GitHub's native **Achievements** (Pull Shark, Quickdraw, YOLO, Galaxy Brain, Pair Extraordinaire, Arctic Code Vault Contributor) appear automatically on your profile page at `github.com/annamalai2912` once unlocked — they can't be embedded directly in a README, but the trophy graphic above is a popular community substitute that reflects similar activity (commits, PRs, issues, stars, repos).
 
 ## 🔄 DevOps & Deployment Workflow
 
@@ -222,6 +300,7 @@ current_learning = [
 - Developing edge AI applications for IoT devices with limited resources
 - Creating innovative full-stack applications with embedded AI capabilities
 - Exploring AI-driven solutions for healthcare and sustainability challenges
+- Experimenting across the polyglot stack (Rust, Go, Scala, Fortran) for performance-critical components
 
 ## 📝 Recent Blog Posts & Publications
 
