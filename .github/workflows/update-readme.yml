@@ -1,0 +1,29 @@
+name: Update README with Recent PRs
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]      # also refresh whenever you push to main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update PRs in README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "pull-requests"
+          max_post_count: 5
+          template: "🔀 [{{ title }}]({{ url }}) — {{ readableDate }}"
+          feed_list: |
+            https://github.com/annamalai2912.atom
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
