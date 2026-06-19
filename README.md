@@ -145,6 +145,43 @@ With 1 year of focused experience in AI/ML development and software engineering,
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
+**Model Architectures I Work With**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformer--based_LLMs-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/CNNs_for_Vision-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/RNNs_/_LSTMs-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/GANs-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0891b2?style=flat-square" />
+</p>
+
+**Research Interests**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Few--Shot_Learning-1c1917?style=flat-square&color=78716c" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-1c1917?style=flat-square&color=78716c" />
+  <img src="https://img.shields.io/badge/Explainable_AI-1c1917?style=flat-square&color=78716c" />
+  <img src="https://img.shields.io/badge/Low--Resource_NLP-1c1917?style=flat-square&color=78716c" />
+  <img src="https://img.shields.io/badge/Human--AI_Collaboration-1c1917?style=flat-square&color=78716c" />
+</p>
+
+---
+
+## 🔄 DevOps & Deployment Workflow
+
+```mermaid
+graph LR
+    A[🧪 Development<br/>& Training] --> B[✅ Testing &<br/>Validation]
+    B --> C[⚙️ CI/CD<br/>Pipeline]
+    C --> D[🚀 Deployment<br/>& Monitoring]
+    D -.Continuous Feedback.-> A
+
+    style A fill:#0891b2,stroke:#1c1917,color:#fff
+    style B fill:#0891b2,stroke:#1c1917,color:#fff
+    style C fill:#0891b2,stroke:#1c1917,color:#fff
+    style D fill:#0891b2,stroke:#1c1917,color:#fff
+```
+
 ---
 
 ## 🚀 Featured Projects
@@ -256,6 +293,28 @@ Web platform integrating NLP for content analysis, sentiment detection, and auto
 - 📄 Building End-to-End AI Systems: From Data Collection to Deployment
 - 📄 The Intersection of IoT and AI: Creating Intelligent Connected Systems
 - 📄 Full-Stack Development for AI Applications: Best Practices and Patterns
+
+---
+
+## 🌟 Open Source Contributions
+
+<a href="https://github.com/annamalai2912">
+  <img src="https://github-readme-stats.vercel.app/api?username=annamalai2912&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Contribution%20Stats" alt="Contribution Stats" height="165"/>
+</a>
+
+<a href="https://github.com/sponsors/annamalai2912">
+  <img src="https://img.shields.io/github/sponsors/annamalai2912?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Sponsors" />
+</a>
+
+<details open>
+<summary><b>🔀 Recent Activity</b></summary>
+<br/>
+
+<!--START_SECTION:pull-requests-->
+*This list updates automatically every day via GitHub Actions.*
+<!--END_SECTION:pull-requests-->
+
+</details>
 
 ---
 
