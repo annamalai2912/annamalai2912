@@ -17,6 +17,10 @@ With 1 year of focused experience in AI/ML development and software engineering,
 * ⚡  Passionate about combining AI with robotics to create meaningful real-world impact
 * 🃏  Jack of all trades across languages, infra, and tooling — see the full stack below
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <a href="https://www.x.com/@Urahaki137538" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@Urahaki137538?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/uzus_annu" target="_blank" rel="noreferrer"><img
