@@ -4,7 +4,7 @@
 ### Deep Learning Engineer&nbsp;•&nbsp;NLP Specialist&nbsp;•&nbsp;AI Solutions Architect
 
 <p align="left">
-  <a href="https://www.techknots.in"><img src="https://www.techknots.in/brand/c7b2b957-6a5d-4e2f-838a-da932b7cc591.png" alt="TechKnots" height="60" />
+  <a href="https://www.techknots.in"><img src="https://www.techknots.in/brand/c7b2b957-6a5d-4e2f-838a-da932b7cc591.png" alt="TechKnots" height="60" /></a>
 </p>
 
 With 1 year of focused experience in AI/ML development and software engineering, I build intelligent systems that bridge cutting-edge deep learning, NLP, robotics, and IoT with practical, real-world applications.
